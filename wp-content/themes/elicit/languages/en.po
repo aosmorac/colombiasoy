@@ -1,0 +1,235 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: elicit\n"
+"POT-Creation-Date: 2016-10-10 16:21+0600\n"
+"PO-Revision-Date: 2016-10-10 16:21+0600\n"
+"Last-Translator: \n"
+"Language-Team: mizmizi <admin@mizmizi.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:13 full-width.php:23 index.php:13 page.php:14 search.php:18
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: archive.php:19 index.php:19 search.php:24 single.php:30
+msgid " F jS, Y"
+msgstr ""
+
+#: archive.php:21 index.php:21 search.php:26 single.php:32
+msgid " Edit"
+msgstr ""
+
+#: archive.php:22 index.php:22 search.php:27 single.php:33
+#, php-format
+msgid " %s"
+msgstr ""
+
+#: archive.php:23 index.php:23 search.php:28 single.php:34
+msgid " No Comments"
+msgstr ""
+
+#: archive.php:23 index.php:23 search.php:28 single.php:34
+msgid " 1 Comment"
+msgstr ""
+
+#: archive.php:23 index.php:23 search.php:28
+msgid " % Comments"
+msgstr ""
+
+#: archive.php:23 index.php:23 search.php:28 single.php:34
+msgid " Comments Closed"
+msgstr ""
+
+#: archive.php:41 index.php:41 search.php:46
+msgid "&laquo; Newer Entries"
+msgstr ""
+
+#: archive.php:42 index.php:42 search.php:47
+msgid "Older Entries &raquo;"
+msgstr ""
+
+#: archive.php:61 index.php:61 search.php:66
+msgid "Not Found"
+msgstr ""
+
+#: archive.php:62 index.php:62 search.php:67
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr ""
+
+#: footer.php:31
+msgid "&nbspTheme by <a href=\"http://mizmizi.com/\">Mizmizi</a> "
+msgstr ""
+
+#: full-width.php:30 page.php:21
+msgid "Edit"
+msgstr ""
+
+#: full-width.php:33 page.php:24
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: full-width.php:43 page.php:34
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: functions.php:22
+msgid "sidebar"
+msgstr ""
+
+#: functions.php:32
+msgid "Header Right"
+msgstr ""
+
+#: functions.php:40
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:48
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:56
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:187
+msgid "Header Menu"
+msgstr ""
+
+#: includes/customizer-controls.php:38
+msgid "UPGRADE TO<a href=\"#\">PRO</a>"
+msgstr ""
+
+#: includes/customizer.php:103
+msgid "Elicit Theme Options"
+msgstr ""
+
+#: includes/customizer.php:109
+msgid "Theme Colors"
+msgstr ""
+
+#: includes/customizer.php:120
+msgid "primary colors"
+msgstr ""
+
+#: includes/customizer.php:144 includes/customizer.php:156
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/customizer.php:164
+msgid "Layout Design"
+msgstr ""
+
+#: includes/customizer.php:178
+msgid "Select sidebar position"
+msgstr ""
+
+#: includes/customizer.php:183 includes/customizer.php:323
+msgid "Left"
+msgstr ""
+
+#: includes/customizer.php:184 includes/customizer.php:324
+msgid "Right"
+msgstr ""
+
+#: includes/customizer.php:185 includes/customizer.php:325
+msgid "No Sidebar"
+msgstr ""
+
+#: includes/customizer.php:206
+msgid "Content Options"
+msgstr ""
+
+#: includes/customizer.php:222
+msgid "Post Excerpt"
+msgstr ""
+
+#: includes/customizer.php:241
+msgid "Excerpt Length"
+msgstr ""
+
+#: includes/customizer.php:246 includes/customizer.php:256
+msgid "Footer Copyright"
+msgstr ""
+
+#: includes/customizer.php:261 includes/customizer.php:269
+msgid "Logo"
+msgstr ""
+
+#: includes/customizer.php:278
+msgid "Header Background"
+msgstr ""
+
+#: includes/widgets/popular-posts.php:8
+msgid "Elicit Popular Posts"
+msgstr ""
+
+#: includes/widgets/popular-posts.php:9
+msgid "Displays most Popular Posts with Thumbnail."
+msgstr ""
+
+#: includes/widgets/popular-posts.php:19
+msgid "Popular Posts"
+msgstr ""
+
+#: includes/widgets/popular-posts.php:25 includes/widgets/widget-social.php:63
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/popular-posts.php:30
+msgid "Number of Posts to show"
+msgstr ""
+
+#: includes/widgets/popular-posts.php:37
+msgid "Show Thumbnails"
+msgstr ""
+
+#: includes/widgets/popular-posts.php:44
+msgid "Show post date"
+msgstr ""
+
+#: includes/widgets/widget-social.php:25
+msgid "Facebook URI"
+msgstr ""
+
+#: includes/widgets/widget-social.php:29
+msgid "Twitter URI"
+msgstr ""
+
+#: includes/widgets/widget-social.php:33
+msgid "Google+ URI"
+msgstr ""
+
+#: includes/widgets/widget-social.php:38
+msgid "Linkedin URI"
+msgstr ""
+
+#: includes/widgets/widget-social.php:45
+msgid "Show social profile icons."
+msgstr ""
+
+#: includes/widgets/widget-social.php:53
+msgid "Elicit Social Icons"
+msgstr ""
+
+#: searchform.php:7
+msgid "Search for:"
+msgstr ""
+
+#: single.php:34
+msgid "% Comments"
+msgstr ""
+
+#: single.php:42
+msgid "Tags"
+msgstr ""
